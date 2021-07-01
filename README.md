@@ -37,8 +37,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/billythegoat356">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D3Loading&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D3Loading&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D3Loading&theme=prussian&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Loading&layout=compact&theme=prussian"/>
 </a>
   
 </p>
