@@ -5,10 +5,10 @@
 </p>
 
 -----
-### <p align="center">🧠 &nbsp;Moi</p>
+### <p align="center">&nbsp;Moi</p>
 <br>
 <p align="center">
-  J'ai 14 ans, j'apprends le développement et la cybersécurité 🙂
+  J'apprends le python, C#, NodeJS 🙂
   <br>
   <br>
   <br>
@@ -17,8 +17,8 @@
   <br>
   <br>
   <br>
-  <a>💬 Mon serveur Discord 💬</a>
-  <iframe src="https://canary.discord.com/widget?id=859105949381427270&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <a href="https://discord.gg/tJNUJSXD">💬 Mon serveur Discord 💬</a>
+  
   
   <br>
 </p>
