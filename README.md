@@ -18,6 +18,7 @@
   <br>
   <br>
   <a>💬 Mon serveur Discord 💬</a>
+  <iframe src="https://canary.discord.com/widget?id=859105949381427270&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   
   <br>
 </p>
