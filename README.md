@@ -12,7 +12,7 @@
   <br>
   <br>
   <br>
-  <img src="https://zupimages.net/up/21/22/oe6x.gif">
+  <img src="https://cdn.discordapp.com/avatars/853162097924243476/a_158c03a2f3de464ccd1200f4779d8969.gif?size=128">
   <br>
   <br>
   <br>
