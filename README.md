@@ -36,7 +36,7 @@
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
-<a href="https://github.com/billythegoat356">
+<a href="https://github.com/D3Loading">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D3Loading&theme=prussian&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Loading&layout=compact&theme=prussian"/>
 </a>
